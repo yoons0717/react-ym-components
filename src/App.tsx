@@ -1,5 +1,5 @@
 import React from 'react'
-import TextInput from './stories/TextInput/TextInput'
+import TextInput from './components/TextInput/TextInput'
 
 const App = () => (
   <>
