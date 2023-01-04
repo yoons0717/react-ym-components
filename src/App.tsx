@@ -1,5 +1,10 @@
-import React from "react";
+import React from 'react'
+import TextInput from './stories/TextInput/TextInput'
 
-const App = () => <>Init</>;
+const App = () => (
+  <>
+    <TextInput label={'first name'} name={''} />
+  </>
+)
 
-export default App;
+export default App
